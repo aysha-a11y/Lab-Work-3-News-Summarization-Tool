@@ -1,0 +1,6 @@
+langchain
+newsapi-python
+openai
+chromadb
+tiktoken
+python-dotenv
